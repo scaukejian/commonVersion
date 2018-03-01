@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sunInSky">
+    <output-path>$PROJECT_DIR$/target/sunInSky</output-path>
+    <root id="root" />
+  </artifact>
+</component>
